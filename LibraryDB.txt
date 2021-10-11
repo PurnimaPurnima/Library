@@ -1,0 +1,25 @@
+create table UserInfo(
+Username varchar(20) not null,
+Pass_word varchar(20),
+SecurityQuestion varchar(50),
+SecurityAnswer varchar(50),
+constraint PK_Username primary key (Username)
+)
+
+create table Books(
+Id int not null identity(1,1),
+Title varchar(100),
+Author varchar (100),
+Rating float,
+ImageURL varchar(100),
+PdfURL varchar (100),
+constraint PK_Id primary key (Id)
+)
+
+create table ReadBooks(
+Username varchar(20) not null,
+BookId int not null,
+constraint CK_ReadBooks primary key (Username, BookID),
+constraint FK_User foreign key (Username) references UserInfo(Username),
+constraint FK_Book foreign key (BookId) references Books(Id)
+)
