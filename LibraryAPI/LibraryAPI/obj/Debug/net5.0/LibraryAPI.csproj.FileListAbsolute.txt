@@ -267,3 +267,4 @@ E:\Academics\LTI\CLD\Angular\LibraryProject\LibraryAPI\LibraryAPI\obj\Debug\net5
 E:\Academics\LTI\CLD\Angular\LibraryProject\LibraryAPI\LibraryAPI\obj\Debug\net5.0\ref\LibraryAPI.dll
 E:\Academics\LTI\CLD\Angular\LibraryProject\LibraryAPI\LibraryAPI\obj\Debug\net5.0\LibraryAPI.pdb
 E:\Academics\LTI\CLD\Angular\LibraryProject\LibraryAPI\LibraryAPI\obj\Debug\net5.0\LibraryAPI.genruntimeconfig.cache
+E:\Academics\LTI\CLD\Angular\LibraryProject\LibraryAPI\LibraryAPI\obj\Debug\net5.0\LibraryAPI.csproj.AssemblyReference.cache

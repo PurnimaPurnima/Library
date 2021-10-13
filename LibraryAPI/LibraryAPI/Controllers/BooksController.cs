@@ -90,7 +90,7 @@ namespace LibraryAPI.Controllers
         public async Task<IActionResult> DeleteBook(int id)
         {
             var book = await _context.Books.FindAsync(id);
-            int i;
+            //int i;
 
             if (book == null)
             {
