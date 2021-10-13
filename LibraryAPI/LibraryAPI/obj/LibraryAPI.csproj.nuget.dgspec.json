@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Academics\\LTI\\CLD\\Angular\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj": {}
+    "E:\\Academics\\LTI\\CLD\\Angular\\LibraryProject\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj": {}
   },
   "projects": {
-    "E:\\Academics\\LTI\\CLD\\Angular\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj": {
+    "E:\\Academics\\LTI\\CLD\\Angular\\LibraryProject\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Academics\\LTI\\CLD\\Angular\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
+        "projectUniqueName": "E:\\Academics\\LTI\\CLD\\Angular\\LibraryProject\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
         "projectName": "LibraryAPI",
-        "projectPath": "E:\\Academics\\LTI\\CLD\\Angular\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
+        "projectPath": "E:\\Academics\\LTI\\CLD\\Angular\\LibraryProject\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
         "packagesPath": "C:\\Users\\HELLO\\.nuget\\packages\\",
-        "outputPath": "E:\\Academics\\LTI\\CLD\\Angular\\LibraryAPI\\LibraryAPI\\obj\\",
+        "outputPath": "E:\\Academics\\LTI\\CLD\\Angular\\LibraryProject\\LibraryAPI\\LibraryAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HELLO\\AppData\\Roaming\\NuGet\\NuGet.Config",

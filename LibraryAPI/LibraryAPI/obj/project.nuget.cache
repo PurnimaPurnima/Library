@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hrf1IPaNduCzAfyhPVmqr1agDiBPro9rk7CE8h8gMyuD9Nc2WjvisdU8Sa1bnrA4ARACexOAjKrkiazQISBugA==",
+  "dgSpecHash": "shV4QraAnUB3x62vwBxLXBob3eh0RMEBmJ7iPJV3fx2HwdIFm1FeKYrFmctBxdys7tDPOakt2V++6I4rlSHdbg==",
   "success": true,
-  "projectFilePath": "E:\\Academics\\LTI\\CLD\\Angular\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
+  "projectFilePath": "E:\\Academics\\LTI\\CLD\\Angular\\LibraryProject\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HELLO\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HELLO\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",

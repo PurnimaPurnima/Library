@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = LibraryAPI
-build_property.ProjectDir = E:\Academics\LTI\CLD\Angular\LibraryAPI\LibraryAPI\
+build_property.ProjectDir = E:\Academics\LTI\CLD\Angular\LibraryProject\LibraryAPI\LibraryAPI\
